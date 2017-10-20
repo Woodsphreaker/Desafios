@@ -17,4 +17,4 @@ const numbers = (number) =>
 
 
 console.log(numbers(20));
-//console.log(numbers(11));
+console.log(numbers(11));
