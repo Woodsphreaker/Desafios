@@ -21,3 +21,4 @@ console.log(numbers(11));
 console.log(numbers(18));
 console.log(numbers(36));
 console.log(numbers(90));
+console.log(numbers(200));
