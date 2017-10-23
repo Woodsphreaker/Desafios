@@ -17,8 +17,5 @@ const numbers = (number) =>
 
 
 console.log(numbers(20));
-<<<<<<< HEAD
-
-=======
->>>>>>> 2855e3578bf26ef307177039b446e7a0f6e4d6f8
 console.log(numbers(11));
+console.log(numbers(18));
