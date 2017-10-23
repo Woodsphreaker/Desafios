@@ -20,3 +20,4 @@ console.log(numbers(20));
 console.log(numbers(11));
 console.log(numbers(18));
 console.log(numbers(36));
+console.log(numbers(90));
